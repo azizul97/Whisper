@@ -16,7 +16,7 @@ Whisper transforms your ebooks and text files into natural-sounding audio so tha
 
 ---
 
-## 📸 Screenshots / Demo  
+## 📸 Preview: 
 
 <img width="1919" height="1051" alt="Screenshot_2" src="https://github.com/user-attachments/assets/7baca3f2-4566-4b68-94d8-9b5b7bec5b80" />
 
@@ -29,7 +29,7 @@ Whisper transforms your ebooks and text files into natural-sounding audio so tha
 
 ## 1. Clone the Repository  
 ``bash
- git clone https://github.com/your-username/whisper.git
+ git clone https: https://github.com/azizul97/Whisper
 
  ---
 
